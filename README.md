@@ -21,7 +21,7 @@ const ivan = {
   educacion:  "Ing. Sistemas Computacionales — ITSALT (8° sem)",
   stack:      ["Next.js", "React Native", "TypeScript", "Prisma", "Supabase"],
   trabajando: "BustSystem — app de transporte escolar en tiempo real",
-  buscando:   "Residencias profesionales 🚀",
+  buscando:   "Residencias profesionales ",
 };
 ```
 
@@ -92,6 +92,7 @@ const ivan = {
 
 - 🏆 **Genius Arena Hackathon** — Capital One · Talent Land México 2026
 - 📜 **Introducción a la Web** — Instituto Tecnológico de Altamira, 2024
+-  **InnovaTecNM** - segundo lugar instituto tencnologico de Altamira 2025
 
 ---
 
